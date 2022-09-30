@@ -1,0 +1,16 @@
+console.log("5 + 5 = ");
+console.log(5 + 5);
+console.log("10 - 7 = ");
+console.log(10 - 7);
+console.log("6 * 3 = ");
+console.log(6 * 3);
+console.log("14 / 2 = ");
+console.log(14 / 2);
+console.log("5 to the 2nd power is: ");
+console.log(4 ** 2);
+console.log("the remainder when 21 is divided by 3 is: ");
+console.log(21 % 3);
+console.log("12 + 8 / 4 - 1 =");
+console.log(12 + 8 / 4 - 1);
+console.log("(13+8) / (2-1) = ");
+console.log((13 + 8) / (2 - 1));
